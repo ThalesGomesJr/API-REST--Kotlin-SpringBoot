@@ -25,6 +25,6 @@ class SwaggerConfig {
         private fun metaData(): ApiInfo = ApiInfoBuilder()
                 .title("API FOR MEDICAL STAFF REGISTRATION")
                 .description("API THAT HAS ALL REGISTRATION METHODS")
-                .version("1.0.0")
+                .version("2.0.0")
                 .build()
 }
